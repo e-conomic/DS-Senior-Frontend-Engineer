@@ -3,26 +3,12 @@
 
 # dependencies
 node_modules
-.docusaurus
 
 # builds
 build
-build-storybook
 dist
-.rpt2_cache
-.next
 types.json
-out
-.parcel-cache
 .vscode
-
-# playwright
-test-results
-playwright-report
-playwright/.cache
-
-# lunr generated files at build
-**/website/public/json/
 
 # misc
 .DS_Store
@@ -30,7 +16,5 @@ playwright/.cache
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-lerna-debug.log*
 
 .npmrc
-.idea
