@@ -52,12 +52,15 @@ Don’t worry about authentication — you can assume your application is alread
 
 Prerequisites:
 
-- Node v22.15 installed.
+- Node v24 or newer installed.
 
 Steps to run locally:
 
-- Clone the project.
-- run `npm install`
-- run `npm run dev`
+1. Clone the project.
+2. Run `npm install`.
+3. Start the mock API server (in one terminal): `npm run server`  
+   It serves at `http://localhost:7029` and provides e.g. `GET /api/projects/get-all`.
+4. Start the dev client (in another terminal): `npm run dev`  
+   The Vite app will be available at the URL shown (typically `http://localhost:5173`).
 
 Happy coding!
