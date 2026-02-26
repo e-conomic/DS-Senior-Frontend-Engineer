@@ -58,9 +58,6 @@ Steps to run locally:
 
 1. Clone the project.
 2. Run `npm install`.
-3. Start the mock API server (in one terminal): `npm run server`  
-   It serves at `http://localhost:7029` and provides e.g. `GET /api/projects/get-all`.
-4. Start the dev client (in another terminal): `npm run dev`  
-   The Vite app will be available at the URL shown (typically `http://localhost:5173`).
+3. Run `npm run dev` — this starts the Vite dev server and the mock API
 
 Happy coding!
