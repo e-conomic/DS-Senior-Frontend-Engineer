@@ -52,12 +52,12 @@ Don’t worry about authentication — you can assume your application is alread
 
 Prerequisites:
 
-- Node v22.15 installed.
+- Node v24 or newer installed.
 
 Steps to run locally:
 
-- Clone the project.
-- run `npm install`
-- run `npm run dev`
+1. Clone the project.
+2. Run `npm install`.
+3. Run `npm run dev` — this starts the Vite dev server and the mock API
 
 Happy coding!
