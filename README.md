@@ -39,6 +39,10 @@ We want to see that you have thought about the design of your application, and c
 - Consider how your application might scale as it grows in use, and in number of developers working on it
 - Summarise any significant architectural decisions you take, to discuss in the presentation
 
+## ⏲️ Time & Deadline
+
+We expect that you spend between 4 and 6 hours on the assignment and that you share the solution with us at least 48 hours before the interview.
+
 ## ℹ️ Questions & Info
 
 If you have any **questions** or **concerns**, please feel free to ask.
